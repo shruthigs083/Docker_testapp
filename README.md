@@ -10,11 +10,11 @@ The project demonstrates the integration of a Node.js backend with MongoDB and t
 
 ## Application Preview
 
-![Docker TestApp Student Portal](assets/Screenshot(209).png)
+![Docker TestApp Student Portal](assets/looks.png)
 
 ## Docker Architecture
 
-![Docker TestApp Architecture](assets/Web App Architecture Flowchart.png)
+![Docker TestApp Architecture](assets/architecture.png)
 
 ## Features
 
